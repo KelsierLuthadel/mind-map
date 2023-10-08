@@ -4,7 +4,9 @@ Mind map I use when performing exploratory testing or pre-ISO/SOC validation.
 This mind map has been sanitised, and various sections removed due to sensistive information disclosure and/or undisclosed vulnerabilities. I am keeping this version open source, and free to use. In time, I will be extending various sections so that it will move through the various sections of MITRE ATT&CK.
 
 ## The mind map
-The mind map itself has been created using XMind, to view this mind map you will either need to download and install [https://xmind.app/Here](https://xmind.app/) or use their free online cloud-based version [https://xmind.works/](https://xmind.works/)
+The mind map itself has been created using XMind, to view this mind map you will either need to download and install [https://xmind.app/Here](https://xmind.app/) or use their free online cloud-based version [https://xmind.works/](https://xmind.works/).
+
+Alternatevely, you can view the mind map directly [https://xmind.works/share/d9J8DmmA](here).
 
 ### Level 1
 At level, the investigation begins. Ideally, you will be using search engines to find out as much about the target as possible. You might want to find any parent or child companies that relate to the target and begin to form a structural layout of your target. During this phase, you will start to piece together potential IP addresses and DNS servers that can form part of the attack surface.
