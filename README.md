@@ -1,7 +1,7 @@
 # mind-map
 Mind map I use when performing exploratory testing or pre-ISO/SOC validation. 
 
-This mind map has been sanitised, and various sections removed due to sensistive information disclosure and/or undisclosed vulnerabilities. I am keeping this version open source, and free to use. In time, I will be extending various sections so that it will move through the various sections of MITRE ATT&CK.
+This mind map has been sanitised, and various sections removed due to sensistive information disclosure and/or undisclosed vulnerabilities. I am keeping this version open source, and free to use. 
 
 ## The mind map
 The mind map itself has been created using XMind, to view this mind map you will either need to download and install [https://xmind.app/Here](https://xmind.app/) or use their free online cloud-based version [https://xmind.works/](https://xmind.works/).
