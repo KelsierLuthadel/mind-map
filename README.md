@@ -15,13 +15,16 @@ At level, the investigation begins. Ideally, you will be using search engines to
 
 ### Level 2
 At this level, you will start a routine penetration test to find vulnerabilities in any of the assets that you identify. This phase will reveal further assets that are of interest. During this phase you will start to identify potential weaknesses and attempt to exploit them.
+
 ![Level 2](assets/level2.png)
 
 ### Level 3
 This phase concentrates on escalation of privileges and lateral movement.
+
 ![Level 3](assets/level3.png)
 
 ### Governance
 This level is aimed at governance, which includes but is not limited to ISO 27001, NIST, SOC and the OWASP Top 10
+
 ![Governance](assets/governance.png)
 
