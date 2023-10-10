@@ -6,8 +6,6 @@ This mind map has been sanitised, and various sections removed due to sensistive
 ## The mind map
 The mind map itself has been created using XMind, to view this mind map you will either need to download and install [https://xmind.app/Here](https://xmind.app/) or use their free online cloud-based version [https://xmind.works/](https://xmind.works/).
 
-Alternatevely, you can view the mind map directly [here](https://xmind.works/share/o3Dr9keW).
-
 ### Level 1
 At level, the investigation begins. Ideally, you will be using search engines to find out as much about the target as possible. You might want to find any parent or child companies that relate to the target and begin to form a structural layout of your target. During this phase, you will start to piece together potential IP addresses and DNS servers that can form part of the attack surface.
 
